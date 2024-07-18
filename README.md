@@ -1,2 +1,6 @@
-# RPA-Engineer-Project
-Robot that listens to a specific email and reads the nationalities data table from the received email then fetches users’ information from a website and sends this information via API.
+# ABOUT THE PROJECT
+
+This project contains instructions and implementation of a robot built using UiPath to automate a process involving email handling, web scraping, VPN activation, and API calls. The robot listens for a specific email, processes the attached data, fetches user information from a website, and sends this information via an API.
+
+
+
