@@ -34,12 +34,10 @@ This project contains instructions and implementation of a robot built using UiP
    - The results file is sent via email to designated recipients.
 
 
+
+
 To further illustrate the workflow, I've uploaded a video recording of the entire process running end-to-end.
 
 https://github.com/user-attachments/assets/f0d84b49-6098-4944-a1ac-82c3c111eac9
-
-
-[Project End to End demo](https://drive.google.com/file/d/1RuReUMJT8UHCua9jhvKF2faQYU_WS55A/view?usp=sharing)
-
 
 
