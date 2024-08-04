@@ -16,7 +16,7 @@ This project contains instructions and implementation of a robot built using UiP
 4. **Read Data Table**: 
    - The robot extracts data from the downloaded Excel file.
 
-### Loop Through Each Record
+#### Loop Through Each Record
 
 - **Generate Fake Data**: 
   - The robot visits [Fake Name Generator](https://www.fakenamegenerator.com/) to generate user information based on a specified gender and country.
